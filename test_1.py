@@ -1,2 +1,2 @@
 import math
-print("test2"
+print("test2")
